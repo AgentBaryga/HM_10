@@ -1,0 +1,251 @@
+    1  ls
+    2  cd Desktop
+    3  ls
+    4  pwd
+    5  cd ~
+    6  ls
+    7  cd Desktop
+    8  mkdir lesson
+    9  cd lesson
+   10  touch empty.txt
+   11  ls
+   12  ls
+   13  vin empty.txt 
+   14  nano empty.txt 
+   15  nano empty.txt 
+   16  cat empty.txt 
+   17  nano empty.txt 
+   18  cat empty.txt 
+   19  nano empty.txt 
+   20  cp empty.txt 
+   21  mws
+   22  wms
+   23  pwd
+   24  cp /c/Users/USER/Desktop/lesson/empty.txt /c/User/USER/Desktop/
+   25  cp /c/Users/USER/Desktop/lesson/empty.txt /c/User/USER/Desktop/empty.txt
+   26  cp c/Users/USER/Desktop/lesson/empty.txt c/User/USER/Desktop
+   27  cp /c/Users/USER/Desktop/lesson/empty.txt /c/User/USER/Desktop
+   28  cp /c/Users/USER/Desktop/lesson/empty.txt /c/User/USER/Desktop/
+   29  cd ..
+   30  cp /c/Users/USER/Desktop/lesson/empty.txt /c/User/USER/Desktop/
+   31  cd lesson/
+   32  clear
+   33  ls
+   34  mkdie Lesson3.1
+   35  mkdir Lesson3.1
+   36  sl
+   37  ls
+   38  clear
+   39  pwd
+   40  cd ..
+   41  cd git
+   42  git config --global user.name "Petrov Mykola"
+   43  git config --global user.email NikolauPetrov13@gmail.com
+   44  git clone https://github.com/AgentBaryga/Lesson3.1.git
+   45  git statuss
+   46  git status
+   47  cd Lesson3.1/
+   48  git status
+   49  touch New.txt
+   50  git status
+   51  git add New.txt
+   52  git status
+   53  git commit -m "Home Work"
+   54  git status
+   55  git log
+   56  git branch
+   57  git checkout -b new_branch
+   58  git branch
+   59  git checkout main
+   60  git branch
+   61  git checkout new_branch 
+   62  git branch
+   63  nano New.txt 
+   64  git status
+   65  git commit -m "New modified"
+   66  git status
+   67  git status
+   68  git 
+   69  git cneckout main
+   70  git checkout main
+   71  git merge new_branch 
+   72  git branch 
+   73  git status
+   74  git commite
+   75  git commit
+   76  git checkout new_branch 
+   77  git merge main 
+   78  git status
+   79  git commit
+   80  git checkout main 
+   81  git status 
+   82  git commit -m "New modified"
+   83  git add New.txt
+   84  git status
+   85  git commit -m "New modified"
+   86  git push
+   87  git push
+   88  cd ..
+   89  mkdir HW_10
+   90  cd HW_10/
+   91  git clone [200~https://github.com/AgentBaryga/HM_10.git~
+   92  git clone https://github.com/AgentBaryga/HM_10.git~
+   93  git clone https://github.com/AgentBaryga/HM_10.git
+   94  ls
+   95  sd HM_10/
+   96  sd HM_10
+   97   git status
+   98  cd HM_10/
+   99   git status
+  100  touch text_ignore.txt
+  101  ls
+  102  status
+  103  git status
+  104  nano .gitignore
+  105  nano .gitignore
+  106  git status
+  107  ls
+  108  git add .gitignore
+  109  git status
+  110  git commit 
+  111  ls
+  112  cd git
+  113  ls
+  114  cd git
+  115  cd Git
+  116  cd Desktop/
+  117  cd Git
+  118  ls
+  119  cd Y
+  120  cd HW_10/
+  121  cd HW_10/
+  122  LS
+  123  cd HM_10/
+  124  ls
+  125  git commit 
+  126  mkdir main_test.txt
+  127  dit add
+  128  git aff
+  129  git add
+  130  git add main_test.txt
+  131  git status
+  132  gid commit
+  133  git commit
+  134  ls
+  135  git chechout -b develop
+  136  git checkout -b develop
+  137  git branch develop 
+  138  ls
+  139  git status
+  140  git add .gitignore
+  141  git commit
+  142  git status
+  143  git checkout develop
+  144  mkdir develop_test.txt
+  145  git add develop_test.txt/
+  146  git status
+  147  git commit
+  148  cd Desktop/
+  149  ls
+  150  cd git
+  151  ls
+  152  cd HW_10/
+  153  cd HW_10/
+  154  git checkout develop
+  155  ls
+  156  cd HM_10/
+  157  ls
+  158  nano develop_test.txt/
+  159  ls
+  160  nano develop_test.txt/
+  161  del develop_test.txt/
+  162  git delite develop_test.txt/
+  163  help
+  164  ls
+  165  nano text_ignore.txt 
+  166  nano develop_test.txt/
+  167  git rm develop_test.txt/
+  168  cd develop_test.txt/
+  169  add develop_test.txt
+  170  git add develop_test.txt
+  171  cd ..
+  172  ls
+  173  nano develop_test.txt/
+  174  git rm -r develop_test.txt
+  175  git push
+  176  cd Desktop/
+  177  cd Git
+  178  cd HW_10/
+  179  cd HW_10/
+  180  cd HM_10/
+  181  git push
+  182  cd Desktop/
+  183  cd git
+  184  git clone https://github.com/AgentBaryga/HM_10.git
+  185  ls
+  186  cd HM_10/
+  187  touch test_ignore.txt
+  188  ls
+  189  nano .gitignore
+  190  nano .gitignore
+  191  git status
+  192  git commit
+  193  git status
+  194  git commit
+  195  git commit .gitignore
+  196  cd Desktop/
+  197  cd git
+  198  cd HM_10/
+  199  git status
+  200  git commit -m "Добавлен .gitignore"
+  201  git status
+  202  git status
+  203  git commit test_ignore.txt 
+  204  git status
+  205  git commit test_ignore.txt 
+  206  git add .gitignore 
+  207  git status
+  208  git add test_ignore.txt 
+  209  nano .gitignore 
+  210  git status
+  211  git add test_ignore.txt 
+  212  git commit
+  213  [200~rm -f .git/index.lock
+  214  rm -f .git/index.lock
+  215  git commit
+  216  git add test_ignore.txt 
+  217  git status
+  218  git add .gitignore 
+  219  git status
+  220  git commit
+  221  git status
+  222  ls
+  223   touch main_test.txt
+  224  git add main_test.txt 
+  225  git status
+  226  git commit
+  227  ls
+  228  git status
+  229  git commit
+  230  git status
+  231  ls
+  232  git checkout -b develop
+  233  git checkout develop
+  234  touch develop_text.txt
+  235  git add develop_text.txt 
+  236  git status
+  237  git commit
+  238  git status
+  239  nano develop_text.txt 
+  240  git status
+  241  git add develop_text.txt 
+  242  git status
+  243  git commit
+  244  git status
+  245  git checkout main
+  246  git merge develop 
+  247  git log
+  248  git status
+  249  ls
+  250  command_list.csv
+  251  history > command_list.csv
